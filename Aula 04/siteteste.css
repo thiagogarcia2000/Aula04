@@ -1,0 +1,28 @@
+.titulo{
+    color: green;
+}
+h2{
+    color: red;
+}
+.pate1{
+    color: red;
+}
+.comida1{
+    border-radius: 40px;
+}
+
+.Farofa{
+    color: green;
+}
+.farofa1{
+    border-radius: 80px;
+}
+.Panetone{
+    color: red;
+}
+.panetone:hover{
+    border-radius: 20px;
+}
+body{
+    background-color: black;
+}

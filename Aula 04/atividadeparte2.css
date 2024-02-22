@@ -1,0 +1,34 @@
+.arroz{
+    width: 300px;
+    border-radius: 20px;
+}
+.titulo{
+    color: blueviolet;
+}
+.ingredientes{
+    color: blueviolet;
+}
+ul{
+list-style: lower-roman;
+color: aquamarine;
+}
+body{
+    background-color: black;
+}
+.modo{
+    color: blueviolet;
+}
+.passo{
+    color: blueviolet;
+}
+.passo_imagem{
+    width: 200px;
+    border-radius: 20px;
+}
+div{
+    background-color: bisque;
+    max-width: 50vw;
+}
+.subtitulo{
+    color: aqua;
+}
